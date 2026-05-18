@@ -6,13 +6,13 @@ DT-Trak's primary GitHub organization. All internally developed software, automa
  
 ## How We Build
  
-DT-Trak uses **Claude Code** as its primary development environment. All projects should follow the processes defined in the [AI Software SOP](https://github.com/DT-Trak/dt-trak-ai-software-sop) — our single source of truth for building, governing, and sustaining AI-assisted software; The [AI Software SOP](https://github.com/DT-Trak/dt-trak-ai-software-sop) is a requirement for all **Tier 2** projects.
+DT-Trak uses **Claude Code** as its primary development environment. All projects should follow the processes defined in the [Developer Guide](https://github.com/DT-Trak/docs-developer-guide) — our single source of truth for building, governing, and sustaining AI-assisted software; The [Developer Guide](https://github.com/DT-Trak/docs-developer-guide) is a requirement for all **Tier 2** projects.
  
 Projects are classified into two tiers:
  
 - **Tier 1** — Personal or team tools. Built and maintained by the individual or team. Must live in an Internal repo under this org.
 - **Tier 2** — Company-wide applications. Owned by the Dev Team, follow Agile/Scrum, and go through formal scoping and review.
-See the [AI Software SOP](https://github.com/DT-Trak/dt-trak-ai-software-sop) for full details on both tiers.
+See the [Developer Guide](https://github.com/DT-Trak/docs-developer-guide) for full details on both tiers.
  
 ---
  
